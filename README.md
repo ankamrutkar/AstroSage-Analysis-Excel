@@ -130,7 +130,8 @@ The dataset contains **31 attributes**, including:
 ---
 
 ## 📊 Dashboard Preview
-*(Add your dashboard screenshot here)*
+<img width="1483" height="548" alt="Astrosage AnalysisDashboard" src="https://github.com/user-attachments/assets/bc487fba-e7a9-4628-86b7-3721c1327a8d" />
+
 
 ---
 
